@@ -1,0 +1,32 @@
+aid: qr-code
+name: QR code
+description: "Create an easy to read QR code and URL shortener"
+url: https://www.qrtag.net/api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: QR code
+    description: "Create an easy to read QR code and URL shortener"
+    humanURL: https://www.qrtag.net/api/
+    baseURL: https://www.qrtag.net/api/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://www.qrtag.net/api/
+common:
+  - type: Website
+    url: https://www.qrtag.net/api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
