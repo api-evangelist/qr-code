@@ -39,7 +39,6 @@ apis:
   - name: QR code
     description: "Create an easy to read QR code and URL shortener"
     humanURL: https://www.qrtag.net/api/
-    baseURL: https://www.qrtag.net/api/
     tags:
       - Development
     properties:
